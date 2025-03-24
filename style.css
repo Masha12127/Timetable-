@@ -1,0 +1,57 @@
+body {
+  font-family: sans-serif;
+  background-color: #f4f4f4; /* Light gray background */
+  color: #333; /* Dark gray text */
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  table-layout: fixed;
+  background-color: #ffffff; /* White table background */
+  border: 2px solid #555; /* Darker border */
+}
+
+th {
+  background-color: #007bff; /* Blue header background */
+  color: white; /* White text */
+  padding: 10px;
+  font-weight: 900;
+}
+
+td {
+  padding: 5px;
+  text-align: center;
+  word-wrap: break-word;
+  border: 1px solid #ddd; /* Light gray borders */
+}
+
+.vertical {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  white-space: nowrap;
+  overflow: visible;
+  background-color: #ffcc00; /* Yellow background for vertical text */
+  padding: 5px;
+  color: #000; /* Black text */
+}
+
+h1 {
+  font-size: 36px;
+  color: #dc3545; /* Red title */
+  text-align: center;
+}
+
+ol {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  max-width: 100%;
+  background-color: #e3f2fd; /* Light blue background */
+  padding: 10px;
+}
+
+li {
+  margin-right: 30px;
+  color: #28a745; /* Green list items */
+}

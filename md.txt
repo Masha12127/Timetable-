@@ -1,0 +1,20 @@
+# Timetable Project  
+
+This is a simple HTML & CSS timetable project.  
+
+## Features  
+- Displays a structured timetable  
+- Responsive design  
+- Easy to modify  
+
+## How to Use  
+1. Open `index.html` in a browser.  
+2. Modify `style.css` to customize the appearance.  
+
+## Files Included  
+- `index.html` (Main HTML file)  
+- `style.css` (Styling file)  
+- `README.md` (Project description)  
+
+## By
+PETER MACHARIA 
